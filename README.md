@@ -180,7 +180,6 @@ Each run reports six MIAs:
 * CompLeakNR_train_based_method_1: Reported as **CompLeak<sub>NR</sub> [63]** in the paper
 * CompLeakNR_train_based_method_2: Reported as **CompLeak<sub>NR</sub> [51]** in the paper
 * CompLeakNR_RMIA: Reported as **CompLeak<sub>NR</sub> (RMIA) [75]** in the paper
-
 Reported metrics include **ACC**, **AUC**, and **TPR at 0.1% FPR**.
 Only highly compressed models (e.g., 90% pruning) show reduced vulnerability.
 ---
